@@ -1,0 +1,196 @@
+{
+  "users": [
+    {
+      "name": "Mohamed Wahba",
+      "email": "mohamed@gmail.com",
+      "pass": "01012879984",
+      "id": 1
+    }
+  ],
+  "locations": [
+    {
+      "name": "Charlie's Restaurant",
+      "phone": "01552735204",
+      "address": "13 El Thawra St El Korba, Heliopolis, Cairo 11757 Egypt",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "Shogun Japanese Restaurant",
+      "phone": "01224800009",
+      "address": "Omar Ibn EL Khattab St",
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "name": "Lunch",
+      "userId": 1,
+      "locationId": 1,
+      "id": 2
+    },
+    {
+      "name": "dinner",
+      "userId": 1,
+      "locationId": 1,
+      "id": 3
+    },
+    {
+      "name": "Food",
+      "userId": 1,
+      "locationId": 2,
+      "id": 4
+    },
+    {
+      "name": "Meal",
+      "userId": 1,
+      "locationId": 2,
+      "id": 5
+    },
+    {
+      "name": "Feast",
+      "userId": 1,
+      "locationId": 2,
+      "id": 6
+    },
+    {
+      "name": "foof ",
+      "userId": 1,
+      "locationId": 1,
+      "id": 7
+    }
+  ],
+  "items": [
+    {
+      "name": "this is",
+      "price": "15.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 101,
+      "userId": 1,
+      "locId": 1,
+      "catId": 1,
+      "id": 1
+    },
+    {
+      "name": "red",
+      "price": 17,
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 150,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 2
+    },
+    {
+      "name": "teer",
+      "price": "4.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 1,
+      "userId": 1,
+      "locId": 2,
+      "catId": 2,
+      "id": 3
+    },
+    {
+      "name": "hel",
+      "price": "4.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 1,
+      "userId": 1,
+      "locId": 1,
+      "catId": 4,
+      "id": 6
+    },
+    {
+      "name": "how are",
+      "price": "63.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 100,
+      "userId": 1,
+      "locId": 1,
+      "catId": 3,
+      "id": 8
+    },
+    {
+      "name": "mt foobgbdjhmhg",
+      "price": "4560.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and",
+      "qty": 100014,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 9
+    },
+    {
+      "name": "my eat",
+      "price": "500.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 20,
+      "userId": 1,
+      "locId": 1,
+      "catId": 2,
+      "id": 10
+    },
+    {
+      "name": "this is",
+      "price": "600.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 200,
+      "userId": 1,
+      "locId": 1,
+      "catId": 1,
+      "id": 11
+    },
+    {
+      "name": "thoseis",
+      "price": "50000.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 160,
+      "userId": 1,
+      "locId": 1,
+      "catId": 3,
+      "id": 13
+    },
+    {
+      "name": "hello im my",
+      "price": "10.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type",
+      "qty": 1000,
+      "userId": 1,
+      "locId": 1,
+      "catId": 1,
+      "id": 14
+    },
+    {
+      "name": "hello in",
+      "price": "100000.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "qty": 15055,
+      "userId": 1,
+      "locId": 2,
+      "catId": 4,
+      "id": 15
+    },
+    {
+      "name": "green in",
+      "price": "10212.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "qty": 154649,
+      "userId": 1,
+      "locId": 2,
+      "catId": 5,
+      "id": 16
+    },
+    {
+      "name": "blue in",
+      "price": "5976.00",
+      "descriptions": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard",
+      "qty": 158821,
+      "userId": 1,
+      "locId": 2,
+      "catId": 6,
+      "id": 17
+    }
+  ]
+}
